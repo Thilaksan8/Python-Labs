@@ -1,0 +1,15 @@
+a=int(input())
+while(a>=0):
+    if(a==0):
+        print("non-prime")
+    elif(a==1):
+        print("non-prime")
+    else:
+        b=2
+        while(b<=a/b):
+            if(a%b==0):
+                print("non-prime")
+                break
+            b=b+1
+        else:print("prime")
+    a=int(input())
