@@ -1,0 +1,6 @@
+Author: E.Thilaksam
+University: UOM
+Semester: 1
+Subject: Programming fundamental (Python)Lab
+
+
